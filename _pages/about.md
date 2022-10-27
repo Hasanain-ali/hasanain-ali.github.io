@@ -7,8 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I'm Hasnain, a Research Fellow at the [School of Mechanical and Aerospace Engineering](https://www.ntu.edu.sg/mae), Nanyang Technological University, Singapore. My research interests include data science and machine learning applied to intelligent transportation systems. In my recently awarded PhD (July-2022), I have developed novel machine learning algorithms to minimize airport airside congestion by intelligently controlling aircraft pushbacks. To further my research interests, I am currently researching about multi agent systems and decision making under uncertainty.
+
+ <!-- I have project management experience and am currently researching about multi agent systems and decision making under uncertainty. -->
+
+## My background and history
+I received my Ph.D from the [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/), and my master’s degree from the [Indian Institute of Technology, Delhi] (https://home.iitd.ac.in/). Currently, at [Air Traffic Management Research Institute, Singapore] (https://www.ntu.edu.sg/atmri). I am currently leading a software development project that aims to integrate the machine learnt models with Air Traffic Controller (ATCO) tools to assist ATCO decision making under uncertainties. The developed software can be adapted to solve other similar transportation and logistical problems that require intelligent decision making to satisfy competing demands of multiple stakeholders with limited information.
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +56,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

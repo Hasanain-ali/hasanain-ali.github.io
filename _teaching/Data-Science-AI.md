@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Data Science and Artificial Intelligence"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate lab"
 permalink: /teaching/Data-Science-AI
 venue: "Nanyang Technological University, School of Mechanical and Aerospace Engineering"
-date: 2020-01-01
+date: 2020-2021 (taught for 2 years/4 semesters)
 location: "Singapore"
 ---
 In today's era of Information, ‘Data’ is the new driving force, provided we know how to extract relevant ‘Intelligence’. This course starts with the core principles of Data Science, and then equips you with the basic tool and techniques of data handling, exploratory data analysis, data visualization, data-based inference, and data-focussed communication. The course will also introduce you to the fundamentals of Artificial Intelligence – state space representation, uninformed search, and reinforcement learning. Python is the language of choice to introduce hands-on computational techniques. For more details, refer to [Introduction-to-DSAI](https://web.ts.ntu.edu.sg/sites/MAE/UG/CourseSyllabus/Shared Documents/MA0218 Introduction to Data Science and Artificial Intelligence.pdf)

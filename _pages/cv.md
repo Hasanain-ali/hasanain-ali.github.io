@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Data-Driven Airport Operations Optimization, Nanyang Technological University, Singapore, 2022
+* M.Tech. in Construction Project Management, Indian Institute of Technology Delhi, 2018
+* B.Tech. in Mechanical Engineering, Manipal Institute of Technology, Karnataka, 2014
 
-Work experience
+
+Industrial work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2015 to June 2016: Senior Engineer
+  * [L&T Construction](https://www.lntecc.com/)
+  * Duties included: Management Information System
+  * Project: Advanced Technological Vessel Project (for Indian Navy)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* June 2014 to September 2015: Graduate Engineer Trainee 
+  * [L&T Construction](https://www.lntecc.com/)
+  * Duties included: Quality Assurance/Quality Control
+  * Project: [ITER](https://www.iter.org/), nuclear fusion research and engineering 
+
+Graduate research experience
+======
+* September 2017 to May 2018: Research Assistant
+  * [IIT Delhi](https://home.iitd.ac.in/)
+  * Task: Analyse data on indian road accidents extracted from 30 national/regional newspaper reports 
+  * Project : [Crash analyses on Indian roads](https://www.icorsi.org/)
+  * Supervisor: [Emeritus Prof. Dinesh Mohan](https://mech.iitd.ac.in/content/dinesh-mohan)
+ 
+<!-- Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Programming
+  * Python: Expert
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

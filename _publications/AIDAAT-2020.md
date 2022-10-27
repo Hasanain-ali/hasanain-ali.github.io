@@ -12,4 +12,4 @@ Airports across the world are expanding by building multiple ground control towe
 
 [Download paper here](https://hal-enac.archives-ouvertes.fr/hal-02547526/file/09049186.pdf)
 
-Recommended citation: Ali, H., Delair, R., Pham, D. T., Alam, S., & Schultz, M. (2020, February). Dynamic hot spot prediction by learning spatial-temporal utilization of taxiway intersections. In 2020 International Conference on Artificial Intelligence and Data Analytics for Air Transportation (AIDA-AT) (pp. 1-10). IEEE.
+Recommended citation: Ali, H., Delair, R., Pham, D. T., Alam, S., & Schultz, M. (2020). Dynamic hot spot prediction by learning spatial-temporal utilization of taxiway intersections. In 2020 International Conference on Artificial Intelligence and Data Analytics for Air Transportation (AIDA-AT) (pp. 1-10). IEEE.

@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "A Deep Reinforcement Learning Approach for Airport Departure Metering under Spatial-Temporal Airside Interactions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'I have developed novel machine learning algorithms to minimize airport airside congestion by intelligently controlling aircraft pushbacks. Empirical results have demonstrated that machine learning based control models can learn effective strategies to manage airside congestion by regulating the spatial-temporal evolution of airport traffic. Benefits of up to 44% reduction in taxi delays were achieved in Singapore Changi Airport that correspond to 2-minute savings in taxi-out time per aircraft. The proposed method has the potential to reduce airport emissions and carbon footprints alongside minimizing the airport congestion problem.'
+date: 2022-11-01
+venue: 'IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS'
+paperurl: 'https://ieeexplore.ieee.org/document/9906869'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Airport taxi delays adversely affect airports and airlines around the world leading to airside congestion, increased Air Traffic Controllers/Pilot workload, and adverse environmental impact due to excessive fuel burn. Airport Departure Metering (DM) is an effective approach to contain taxi delays by controlling departure pushback timings. The key idea behind DM is to transfer aircraft waiting time from taxiways to gates. State-of-the-art DM methods use model-based control policies that rely on airside departure modeling to obtain simplified analytical equations. Consequently, these models fail to capture non-stationarity in the airside operations leading to poor performance of control policies under uncertainties. This work proposes model-free and learning-based DM using Deep Reinforcement Learning (DRL) approach to reduce taxi delays while meeting flight schedule constraints. This paper casts the DM problem in a markov decision process framework and develops a representative airport-airside simulator to simulate airside operations and evaluate the learnt DM policy. For effective state representation, this work introduces taxiway hotspot features to account for the spatial-temporal evolution of airside congestion levels. This significantly improves the DM policy convergence rate during training. The performance of the learnt policy is evaluated under different traffic densities with a reduction of approximately 44% in taxi out delays, in medium-density traffic scenarios, which corresponds to 2-minute savings in taxi-out time per aircraft. Furthermore, benchmarking DRL against an evolutionary method and another state-of-the-art simulation-based heuristic demonstrates the superior performance of our method, especially in high traffic density scenarios. With increased traffic density, taxi-time savings achieved by the learnt DM policy increase without a significant decrease in runway throughput. Results, on a typical day of simulated operations at Singapore Changi Airport, demonstrate that DRL can learn an effective DM policy to contain congestion on the taxiways, reduce total fuel consumption by approximately 22% and better manage the airside traffic.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 

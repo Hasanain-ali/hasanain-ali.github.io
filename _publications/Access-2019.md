@@ -1,5 +1,5 @@
 ---
-title: "A passenger-centric model for reducing missed connections at low cost airports with gates reassignment"
+title: "A Passenger-centric Model for Reducing Missed Connections at Low Cost Airports with Gates Reassignment"
 collection: publications
 permalink: /publication/Access-2019
 excerpt: 'The goal of this work is to minimize missed connections due to arrival delays at airports. I quantified the impact of operational uncertainties on passenger connections using Singapore Changi International Airport Terminal 4 layout and six month ADS-B data. The proposed passenger centric model, in this study, also advises about reassignment of

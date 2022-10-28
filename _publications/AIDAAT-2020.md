@@ -1,5 +1,5 @@
 ---
-title: "Dynamic hot spot prediction by learning spatial-temporal utilization of taxiway intersections"
+title: "Dynamic Hot Spot Prediction by Learning Spatial-Temporal Utilization of Taxiway Intersections"
 collection: publications
 permalink: /publication/AIDAAT-2020
 excerpt: 'In this work, we have predicted dynamic congestion hotspots on airside taxiway network to prevent safety incidents and delays. Hot spots- areas where multiple aircraft may come in close vicinity on taxiways, act as pre-cursors to airside conflicts. We used airside infrastructure and surveillance data of Changi airport to model aircraft arrival at different taxiway intersections both in temporal and spatial dimensions. The statistically learnt spatial-temporal model was then used to compute conflict probability at identified intersections. These hot spots were then visually displayed on the aerodrome diagram for heightened attention of air traffic controllers (ATCOs). In the opinion of Ground Movement ATCO, highlighted Hot Spots lead to better understanding of taxiway movements and increased situational awareness.'

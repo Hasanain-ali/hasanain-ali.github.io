@@ -1,5 +1,5 @@
 ---
-title: "Integrated airside landside framework to assess passenger missed connections with airport departure metering"
+title: "Integrated Airside Landside Framework to Assess Passenger Missed Connections with Airport Departure Metering"
 collection: publications
 permalink: /publication/ICRAT-2022
 excerpt: 'Although DM implementation can contain airside congestion,

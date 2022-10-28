@@ -7,6 +7,7 @@ venue: "School of Mechanical and Aerospace Engineering"
 date: 2019-07-01
 location: "Nanyang Technological University, Singapore"
 ---
+Due to its strategic importance, Singapore is controlling the air traffic flows to and from its neighbouring countries, including Malaysia and Indonesia and covers the South China Sea. 
 
 Aim
 ======

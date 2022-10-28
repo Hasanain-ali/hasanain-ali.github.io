@@ -1,7 +1,7 @@
 ---
 title: "Data Exploration & Visualisation Workshop With Python"
 collection: talks
-type: "Talk"
+type: "Workshop"
 permalink: /talks/IES-ASME-NTU
 venue: "Online (Zoom)"
 date: 2021-10-14

@@ -1,7 +1,7 @@
 ---
 title: "Death by PowerPoint: Online Workshop on Making Effective Presentations"
 collection: talks
-type: "Talk"
+type: "Workshop"
 permalink: /talks/MAEGSC-NTU
 venue: "Online (Microsoft Teams)"
 date: 2022-02-21

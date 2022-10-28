@@ -7,12 +7,10 @@ venue: "School of Mechanical and Aerospace Engineering"
 date: 2019-06-01
 location: "Nanyang Technological University, Singapore"
 ---
-Due to its strategic importance, Singapore is controlling the air traffic flows to and from its neighbouring countries, including Malaysia and Indonesia and covers the South China Sea.
-
 
 Aim
 ======
-The course aims to analyse and compare post-simulation results of Real-Time Air Traffic Control RADAR Simulator by controlling Approach traffic using NARSIM. Air Traffic Control Officers (ATCO) plays an important role in managing the traffic with an emphasis of safety through radio/telephony or datalink
+Due to its strategic importance, Singapore is controlling the air traffic flows to and from its neighbouring countries, including Malaysia and Indonesia and covers the South China Sea. The course aims to analyse and compare post-simulation results of Real-Time Air Traffic Control RADAR Simulator by controlling Approach traffic using NARSIM. Air Traffic Control Officers (ATCO) plays an important role in managing the traffic with an emphasis of safety through radio/telephony or datalink
 
 
 Learning Objectives

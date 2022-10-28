@@ -1,20 +1,28 @@
 ---
-title: "Familiarization of ATC Tower Operations and Flight Sequencing"
+title: "Air Traffic Control Tower Operations and Flight Sequencing"
 collection: teaching
 type: "Undergraduate lab"
-permalink: /teaching/ATC-tower
-venue: "University 1, Department"
-date: 2020-12-01
-location: "Singapore"
+permalink: /teaching/ATC-Tower
+venue: "School of Mechanical and Aerospace Engineering"
+date: 2019-07-01
+location: "Nanyang Technological University, Singapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Aim
 ======
+The course aims to familiarize and give hands-on experience of the procedures to organise and expedite the flow of air traffic at or around the vicinity of the aerodrome.
 
-Heading 2
-======
 
-Heading 3
+Learning Objectives
 ======
+By completing this project, students will gain further knowledge and hands-on experience on ATC Tower operations and procedures. It is also intended to provide adequate knowledge in equipment handling within the limitations of the human-in-theloop (HITL) tower simulators
+
+
+Experimental Techniques
+======
+Several simulation scenarios will be run and the hardware of the simulator is driven by
+specialized software, NARSIM.
+
+TA Duration
+======
+Taught the course for 1 semester from Aug-2019 to Dec-2019.

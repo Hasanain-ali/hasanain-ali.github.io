@@ -3,7 +3,7 @@ title: "Data Driven And Learning Based Approaches For Integrated Landside Airsid
 collection: talks
 type: "Talk"
 permalink: /talks/HIT-NTU
-venue: "Nanyang Technological University, Singapore"
+venue: "Nanyang Technological University"
 date: 2022-11-02
 location: "Singapore"
 ---

@@ -18,12 +18,12 @@ The course aims to motivate you to work closely with data and make data-driven d
 Intended Learning Outcomes
 ======
 By the end of this course, students are expected to be able to:
-1. identify and define data-oriented problems and data-driven decisions in real life,
-2. discuss and illustrate the problems in terms of data exploration and visualization,
-3. apply basic machine learning tools to extract inferential information from the data,
-4. compose an engaging “data-story” to communicate the problem and the inference,
-5. outline the roles and requirements of artificial intelligence in practical applications,
-6. discuss and explain fundamentals of state space search and reinforcement learning
+1. identify and define data-oriented problems and data-driven decisions in real life.
+2. discuss and illustrate the problems in terms of data exploration and visualization.
+3. apply basic machine learning tools to extract inferential information from the data.
+4. compose an engaging “data-story” to communicate the problem and the inference.
+5. outline the roles and requirements of artificial intelligence in practical applications.
+6. discuss and explain fundamentals of state space search and reinforcement learning.
 
 
 TA Duration

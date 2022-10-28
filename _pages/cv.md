@@ -45,7 +45,7 @@ Graduate research experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Selected Publications (as First Author)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

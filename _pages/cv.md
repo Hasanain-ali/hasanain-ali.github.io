@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A summary of my professional background is given below. For the complete CV, kindly [email me](hasnain.ali@ntu.edu.sg).
+A summary of my research background is given below. For the complete CV, kindly [email me](hasnain.ali@ntu.edu.sg).
 
 
 Education

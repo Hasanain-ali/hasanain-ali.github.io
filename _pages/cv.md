@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+A summary of my professional background is given below. For the complete CV, kindly [email me](hasnain.ali@ntu.edu.sg).
+
 
 Education
 ======
@@ -16,7 +18,7 @@ Education
 * B.Tech. in Mechanical Engineering, Manipal Institute of Technology, Karnataka, 2014
 
 
-Industrial work experience
+<!-- Industrial work experience
 ======
 * October 2015 to June 2016: Senior Engineer
   * [L&T Construction](https://www.lntecc.com/)
@@ -26,7 +28,7 @@ Industrial work experience
 * June 2014 to September 2015: Graduate Engineer Trainee 
   * [L&T Construction](https://www.lntecc.com/)
   * Duties included: Quality Assurance/Quality Control
-  * Project: [ITER](https://www.iter.org/), nuclear fusion research and engineering 
+  * Project: [ITER](https://www.iter.org/), nuclear fusion research and engineering  -->
 
 Graduate research experience
 ======
@@ -63,6 +65,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Research Service
 ======
-* Currently signed in to 43 different slack teams
+I am currently a reviewer for the following conferences/journals.
+
+* Artificial Intelligence Review
+* Air Traffic Management R&D Seminar
+* IEEE Intelligent Transportation Systems Conference
+* Winter Simulation Conference
+* IEEE Access
+* Journal of Air Transportation
+
